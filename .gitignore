@@ -1,0 +1,28 @@
+# Obsidian workspace (개인 레이아웃 - 공유 불필요)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian 캐시 및 임시 파일
+.obsidian/cache
+.obsidian/trash/
+.trash/
+
+# 플러그인 캐시/빌드 파일
+.obsidian/plugins/*/data.json.bak
+.obsidian/plugins/*/node_modules/
+
+# Templater 캐시
+.obsidian/plugins/templater-obsidian/Templates/
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 첨부 파일 (선택 - 대용량 시 Git LFS 권장)
+# 7. Attachments/
+
+# 임시/백업 파일
+*.tmp
+*.bak
+*~
